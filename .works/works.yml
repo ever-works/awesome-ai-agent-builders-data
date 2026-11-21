@@ -1,18 +1,22 @@
-company_name: "Awesome AI Agent Builders"
+company_name: Awesome AI Agent Builders
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome AI Agent Builders"
-initial_prompt: "A curated directory of no-code and low-code platforms for building, deploying and running AI agents. Include products such as Lindy, Relevance AI, Gumloop, Dify, Flowise, Langflow, n8n, Zapier Agents, Microsoft Copilot Studio, Botpress, Voiceflow, Stack AI, plus other notable commercial and open-source options. Categories: No-Code Agent Builders, Open-Source Agent Platforms, Enterprise Agent Platforms, Automation Platforms with Agents, Chat & Voice Agent Builders, Agent Marketplaces. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-ai-agent-builders-website"
-company_website: "https://agent-builders.ever.works"
+name: Awesome AI Agent Builders
+initial_prompt: "A curated directory of no-code and low-code platforms for
+  building, deploying and running AI agents. Include products such as Lindy,
+  Relevance AI, Gumloop, Dify, Flowise, Langflow, n8n, Zapier Agents, Microsoft
+  Copilot Studio, Botpress, Voiceflow, Stack AI, plus other notable commercial
+  and open-source options. Categories: No-Code Agent Builders, Open-Source Agent
+  Platforms, Enterprise Agent Platforms, Automation Platforms with Agents, Chat
+  & Voice Agent Builders, Agent Marketplaces. For every item capture the
+  official website, a short factual description, pricing model (free, freemium,
+  paid, open source), deployment (cloud or self-hosted), key features and
+  integrations."
+website_repo: ever-works/awesome-ai-agent-builders-website
+company_website: https://agent-builders.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +33,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
