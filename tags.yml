@@ -1,0 +1,62 @@
+- id: no-code
+  name: "No-Code"
+- id: ai-powered
+  name: "AI-Powered"
+- id: api
+  name: "API"
+- id: freemium
+  name: "Freemium"
+- id: paid
+  name: "Paid"
+- id: business-automation
+  name: "Business Automation"
+- id: enterprise
+  name: "Enterprise"
+- id: agent-deployment
+  name: "Agent Deployment"
+- id: automation
+  name: "Automation"
+- id: cloud
+  name: "Cloud"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: llm-applications
+  name: "LLM Applications"
+- id: visual-builder
+  name: "Visual Builder"
+- id: multi-agent
+  name: "Multi-Agent"
+- id: fair-code
+  name: "Fair-Code"
+- id: app-integration
+  name: "App Integration"
+- id: chatbot
+  name: "Chatbot"
+- id: voice
+  name: "Voice"
+- id: prototyping
+  name: "Prototyping"
+- id: llm-workflows
+  name: "LLM Workflows"
+- id: python
+  name: "Python"
+- id: autonomous
+  name: "Autonomous"
+- id: javascript
+  name: "JavaScript"
+- id: llm-framework
+  name: "LLM Framework"
+- id: mit-license
+  name: "MIT License"
+- id: aws
+  name: "AWS"
+- id: rpa
+  name: "RPA"
+- id: developers
+  name: "Developers"
+- id: marketplace
+  name: "Marketplace"

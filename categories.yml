@@ -1,0 +1,12 @@
+- id: no-code-agent-builders
+  name: "No-Code Agent Builders"
+- id: open-source-agent-platforms
+  name: "Open-Source Agent Platforms"
+- id: enterprise-agent-platforms
+  name: "Enterprise Agent Platforms"
+- id: automation-platforms-with-agents
+  name: "Automation Platforms with Agents"
+- id: chat-and-voice-agent-builders
+  name: "Chat & Voice Agent Builders"
+- id: agent-marketplaces
+  name: "Agent Marketplaces"
