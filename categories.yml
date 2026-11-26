@@ -1,12 +1,44 @@
 - id: no-code-agent-builders
-  name: "No-Code Agent Builders"
+  name: No Code Agent Builders
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect width="8" height="8" x="3" y="3" rx="2"/><path
+    d="M7 11v4a2 2 0 0 0 2 2h4"/><rect width="8" height="8" x="13" y="13"
+    rx="2"/></svg>
 - id: open-source-agent-platforms
-  name: "Open-Source Agent Platforms"
+  name: Open Source Agent Platforms
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
 - id: enterprise-agent-platforms
-  name: "Enterprise Agent Platforms"
+  name: Enterprise Agent Platforms
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect width="20" height="14" x="2" y="7" rx="2"
+    ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
 - id: automation-platforms-with-agents
-  name: "Automation Platforms with Agents"
+  name: Automation Platforms With Agents
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect width="8" height="8" x="3" y="3" rx="2"/><path
+    d="M7 11v4a2 2 0 0 0 2 2h4"/><rect width="8" height="8" x="13" y="13"
+    rx="2"/></svg>
 - id: chat-and-voice-agent-builders
-  name: "Chat & Voice Agent Builders"
+  name: Chat & Voice Agent Builders
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>
 - id: agent-marketplaces
-  name: "Agent Marketplaces"
+  name: Agent Marketplaces
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0
+    0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42
+    0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5"
+    fill="currentColor"/></svg>
+- id: chat-voice-agent-builders
+  name: Chat & Voice Agent Builders
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>

@@ -5,16 +5,26 @@ items_name: Items
 paging_mode: paging
 copyright_year: 2026
 name: Awesome AI Agent Builders
-initial_prompt: "A curated directory of no-code and low-code platforms for
-  building, deploying and running AI agents. Include products such as Lindy,
-  Relevance AI, Gumloop, Dify, Flowise, Langflow, n8n, Zapier Agents, Microsoft
-  Copilot Studio, Botpress, Voiceflow, Stack AI, plus other notable commercial
-  and open-source options. Categories: No-Code Agent Builders, Open-Source Agent
-  Platforms, Enterprise Agent Platforms, Automation Platforms with Agents, Chat
-  & Voice Agent Builders, Agent Marketplaces. For every item capture the
-  official website, a short factual description, pricing model (free, freemium,
-  paid, open source), deployment (cloud or self-hosted), key features and
-  integrations."
+initial_prompt: |-
+  A curated directory of no-code and low-code platforms for building, deploying and running AI agents. Include products such as Lindy, Relevance AI, Gumloop, Dify, Flowise, Langflow, n8n, Zapier Agents, Microsoft Copilot Studio, Botpress, Voiceflow, Stack AI, plus other notable commercial and open-source options. Categories: No-Code Agent Builders, Open-Source Agent Platforms, Enterprise Agent Platforms, Automation Platforms with Agents, Chat & Voice Agent Builders, Agent Marketplaces. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+  Initial categories: No-Code Agent Builders; Open-Source Agent Platforms; Enterprise Agent Platforms; Automation Platforms with Agents; Chat & Voice Agent Builders; Agent Marketplaces.
+  Target keywords: ai agent builder, no-code ai agents, ai agent platform, build ai agents.
+
+  Start with these source lists (use the raw README link for GitHub lists):
+  - https://zapier.com/blog/best-ai-agent-builder/
+  - https://www.futurepedia.io/ai-tools/ai-agents
+  - https://openalternative.co/categories/ai-machine-learning/ai-development-platforms/ai-agent-platforms
+  - https://raw.githubusercontent.com/Agenta-AI/awesome-ai-agent-platforms/HEAD/README.md
+  - https://raw.githubusercontent.com/e2b-dev/awesome-ai-agents/HEAD/README.md
+  - https://github.com/topics/agent-builder
+
+  Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+  One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+  Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+  Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+  Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+  Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
 website_repo: ever-works/awesome-ai-agent-builders-website
 company_website: https://agent-builders.ever.works
 settings:
@@ -32,8 +42,63 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 activity_sync:
   mode: pull
 providers:
   pipeline: agent-pipeline
+metadata:
+  last_request_data:
+    generation_method: create-update
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome AI Agent Builders
+    prompt: |-
+      A curated directory of no-code and low-code platforms for building, deploying and running AI agents. Include products such as Lindy, Relevance AI, Gumloop, Dify, Flowise, Langflow, n8n, Zapier Agents, Microsoft Copilot Studio, Botpress, Voiceflow, Stack AI, plus other notable commercial and open-source options. Categories: No-Code Agent Builders, Open-Source Agent Platforms, Enterprise Agent Platforms, Automation Platforms with Agents, Chat & Voice Agent Builders, Agent Marketplaces. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+      Initial categories: No-Code Agent Builders; Open-Source Agent Platforms; Enterprise Agent Platforms; Automation Platforms with Agents; Chat & Voice Agent Builders; Agent Marketplaces.
+      Target keywords: ai agent builder, no-code ai agents, ai agent platform, build ai agents.
+
+      Start with these source lists (use the raw README link for GitHub lists):
+      - https://zapier.com/blog/best-ai-agent-builder/
+      - https://www.futurepedia.io/ai-tools/ai-agents
+      - https://openalternative.co/categories/ai-machine-learning/ai-development-platforms/ai-agent-platforms
+      - https://raw.githubusercontent.com/Agenta-AI/awesome-ai-agent-platforms/HEAD/README.md
+      - https://raw.githubusercontent.com/e2b-dev/awesome-ai-agents/HEAD/README.md
+      - https://github.com/topics/agent-builder
+
+      Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+      One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+      Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+      Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+      Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+      Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+    model: nvidia/nemotron-3.5-super-vl:free
+    providers:
+      pipeline: agent-pipeline
+    pluginConfig:
+      target_items: 50
+      max_pages_to_process: 8
+      capture_screenshots: false
+    _processedPluginConfig: {}
+  initial_prompt: |-
+    A curated directory of no-code and low-code platforms for building, deploying and running AI agents. Include products such as Lindy, Relevance AI, Gumloop, Dify, Flowise, Langflow, n8n, Zapier Agents, Microsoft Copilot Studio, Botpress, Voiceflow, Stack AI, plus other notable commercial and open-source options. Categories: No-Code Agent Builders, Open-Source Agent Platforms, Enterprise Agent Platforms, Automation Platforms with Agents, Chat & Voice Agent Builders, Agent Marketplaces. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+    Initial categories: No-Code Agent Builders; Open-Source Agent Platforms; Enterprise Agent Platforms; Automation Platforms with Agents; Chat & Voice Agent Builders; Agent Marketplaces.
+    Target keywords: ai agent builder, no-code ai agents, ai agent platform, build ai agents.
+
+    Start with these source lists (use the raw README link for GitHub lists):
+    - https://zapier.com/blog/best-ai-agent-builder/
+    - https://www.futurepedia.io/ai-tools/ai-agents
+    - https://openalternative.co/categories/ai-machine-learning/ai-development-platforms/ai-agent-platforms
+    - https://raw.githubusercontent.com/Agenta-AI/awesome-ai-agent-platforms/HEAD/README.md
+    - https://raw.githubusercontent.com/e2b-dev/awesome-ai-agents/HEAD/README.md
+    - https://github.com/topics/agent-builder
+
+    Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+    One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+    Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+    Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+    Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+    Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3.5-super-vl:free

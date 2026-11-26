@@ -1,12 +1,73 @@
-- url: "https://zapier.com/blog/best-ai-agent-builder/"
-  title: "Zapier — The best AI agent builder software in 2026"
-- url: "https://www.futurepedia.io/ai-tools/ai-agents"
-  title: "Futurepedia — AI Agents"
-- url: "https://openalternative.co/categories/ai-machine-learning/ai-development-platforms/ai-agent-platforms"
-  title: "OpenAlternative — AI Agent Platforms"
-- url: "https://raw.githubusercontent.com/Agenta-AI/awesome-ai-agent-platforms/HEAD/README.md"
-  title: "GitHub list — Agenta-AI/awesome-ai-agent-platforms (165★)"
-- url: "https://raw.githubusercontent.com/e2b-dev/awesome-ai-agents/HEAD/README.md"
-  title: "GitHub list — e2b-dev/awesome-ai-agents (31,005★)"
-- url: "https://github.com/topics/agent-builder"
-  title: "GitHub topic — `agent-builder` (117 repos)"
+- url: https://github.com/topics/agent-builder
+  normalized_url: https://github.com/topics/agent-builder
+  first_seen_at: 2026-11-26T09:40:15.328Z
+  last_attempted_at: 2026-11-26T09:40:15.328Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/agent-builder"
+- url: https://openalternative.co/categories/ai-machine-learning/ai-development-platforms/ai-agent-platforms
+  normalized_url: https://openalternative.co/categories/ai-machine-learning/ai-development-platforms/ai-agent-platforms
+  first_seen_at: 2026-11-26T09:36:09.115Z
+  last_attempted_at: 2026-11-26T09:36:09.115Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://openalternative.co/categories/ai-machine-learning/ai-development-pl\
+    atforms/ai-agent-platforms"
+- url: https://raw.githubusercontent.com/Agenta-AI/awesome-ai-agent-platforms/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/Agenta-AI/awesome-ai-agent-platforms/HEAD/README.md
+  first_seen_at: 2026-11-26T09:31:21.419Z
+  last_attempted_at: 2026-11-26T09:31:21.419Z
+  last_success_at: 2026-11-26T09:31:21.419Z
+  status: success
+  items_created: 47
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/e2b-dev/awesome-ai-agents/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/e2b-dev/awesome-ai-agents/HEAD/README.md
+  first_seen_at: 2026-11-26T09:31:56.025Z
+  last_attempted_at: 2026-11-26T09:31:56.025Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/e2b-dev/awesome-ai-agents/HEAD/README.md"
+- url: https://relevanceai.com
+  normalized_url: https://relevanceai.com/
+  first_seen_at: 2026-11-26T09:41:02.170Z
+  last_attempted_at: 2026-11-26T09:41:02.170Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://relevanceai.com"
+- url: https://www.futurepedia.io/ai-tools/ai-agents
+  normalized_url: https://www.futurepedia.io/ai-tools/ai-agents
+  first_seen_at: 2026-11-26T09:25:26.145Z
+  last_attempted_at: 2026-11-26T09:25:26.145Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.futurepedia.io/ai-tools/ai-agents"
+- url: https://www.lindy.ai
+  normalized_url: https://www.lindy.ai/
+  first_seen_at: 2026-11-26T09:40:38.541Z
+  last_attempted_at: 2026-11-26T09:40:38.541Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.lindy.ai"
+- url: https://zapier.com/blog/best-ai-agent-builder/
+  normalized_url: https://zapier.com/blog/best-ai-agent-builder
+  first_seen_at: 2026-11-26T09:24:57.746Z
+  last_attempted_at: 2026-11-26T09:24:57.746Z
+  last_success_at: 2026-11-26T09:24:57.746Z
+  status: success
+  items_created: 6
+  pipeline: agent-pipeline

@@ -1,62 +1,104 @@
 - id: no-code
-  name: "No-Code"
+  name: No Code
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: api
-  name: "API"
+  name: API
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: business-automation
-  name: "Business Automation"
+  name: Business Automation
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: agent-deployment
-  name: "Agent Deployment"
+  name: Agent Deployment
 - id: automation
-  name: "Automation"
+  name: Automation
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: llm-applications
-  name: "LLM Applications"
+  name: LLM Applications
 - id: visual-builder
-  name: "Visual Builder"
+  name: Visual Builder
 - id: multi-agent
-  name: "Multi-Agent"
+  name: Multi-Agent
 - id: fair-code
-  name: "Fair-Code"
+  name: Fair-Code
 - id: app-integration
-  name: "App Integration"
+  name: App Integration
 - id: chatbot
-  name: "Chatbot"
+  name: Chatbot
 - id: voice
-  name: "Voice"
+  name: Voice
 - id: prototyping
-  name: "Prototyping"
+  name: Prototyping
 - id: llm-workflows
-  name: "LLM Workflows"
+  name: LLM Workflows
 - id: python
-  name: "Python"
+  name: Python
 - id: autonomous
-  name: "Autonomous"
+  name: Autonomous
 - id: javascript
-  name: "JavaScript"
+  name: JavaScript
 - id: llm-framework
-  name: "LLM Framework"
+  name: LLM Framework
 - id: mit-license
-  name: "MIT License"
+  name: MIT License
 - id: aws
-  name: "AWS"
+  name: AWS
 - id: rpa
-  name: "RPA"
+  name: RPA
 - id: developers
-  name: "Developers"
+  name: Developers
 - id: marketplace
-  name: "Marketplace"
+  name: Marketplace
+- id: vendor-cloud
+  name: Vendor Cloud
+- id: apache-20
+  name: Apache 2.0
+- id: python-framework
+  name: Python Framework
+- id: local-terminal
+  name: Local Terminal
+- id: coding-agent
+  name: Coding Agent
+- id: agpl-30
+  name: AGPL 3.0
+- id: browser-automation
+  name: Browser Automation
+- id: local-ide
+  name: Local IDE
+- id: local-desktop
+  name: Local Desktop
+- id: proprietary
+  name: Proprietary
+- id: vendor-hosted
+  name: Vendor Hosted
+- id: on-premises
+  name: On Premises
+- id: local-cli
+  name: Local CLI
+- id: local
+  name: Local
+- id: source-available
+  name: Source Available
+- id: net
+  name: .NET
+- id: flow-based
+  name: Flow Based
+- id: mixed-license
+  name: Mixed License
+- id: event-driven
+  name: Event Driven
+- id: python-library
+  name: Python Library
+- id: typescript
+  name: TypeScript
