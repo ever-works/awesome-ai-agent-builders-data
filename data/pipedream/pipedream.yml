@@ -1,0 +1,42 @@
+name: Pipedream
+description: "Event-driven automation platform with prebuilt integrations and
+  steps in Node.js, Python, Go, or Bash. License: Pipedream Source Available
+  License. Hosting: vendor-hosted."
+source_url: https://github.com/PipedreamHQ/pipedream
+category: Automation Platforms with Agents
+tags:
+  - Vendor-Hosted
+  - Source-Available
+  - Event-Driven
+markdown: >-
+  ## Overview
+
+
+  Pipedream is an event-driven automation platform with prebuilt integrations
+  and steps in Node.js, Python, Go, or Bash.
+
+
+  ## Features
+
+
+  - Event-driven automation
+
+  - Prebuilt integrations
+
+  - Multi-language steps (Node.js, Python, Go, Bash)
+
+  - Workflow automation
+
+
+  ## Deployment
+
+
+  - Vendor-hosted
+
+
+  ## License
+
+
+  Pipedream Source Available License
+brand: ""
+updated_at: 2026-11-26 09:42

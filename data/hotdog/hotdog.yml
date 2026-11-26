@@ -1,0 +1,45 @@
+name: Hotdog
+description: "Coding agent that runs straight from source on bun, no install
+  step, fully auditable source, and extension system. License: MIT. Hosting:
+  runs locally."
+source_url: https://github.com/devoidfury/hotdog
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - MIT License
+  - Local
+  - Coding Agent
+markdown: >-
+  ## Overview
+
+
+  Hotdog is a coding agent that runs straight from source on bun, with no
+  install step, fully auditable source, and an extension system.
+
+
+  ## Features
+
+
+  - Source-direct execution
+
+  - Bun runtime
+
+  - No install step required
+
+  - Fully auditable source code
+
+  - Extension system
+
+
+  ## Deployment
+
+
+  - Runs locally
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

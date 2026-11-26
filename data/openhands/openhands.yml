@@ -1,0 +1,45 @@
+name: OpenHands
+description: "Platform for software development agents that runs coding agents
+  across local, remote, and cloud backends. License: MIT. Hosting: self-hosted;
+  vendor cloud available."
+source_url: https://github.com/All-Hands-AI/OpenHands
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - MIT License
+  - Self-Hosted
+  - Vendor Cloud
+markdown: >-
+  ## Overview
+
+
+  OpenHands is a platform for software development agents that runs coding
+  agents across local, remote, and cloud backends.
+
+
+  ## Features
+
+
+  - Software development agent platform
+
+  - Coding agent execution
+
+  - Local, remote, and cloud backends
+
+  - Multi-backend support
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud available
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

@@ -1,0 +1,42 @@
+name: MetaGPT
+description: "Python multi-agent framework that models software and business
+  roles as coordinated agent workflows. License: MIT. Hosting: library for
+  self-managed applications."
+source_url: https://github.com/geekan/MetaGPT
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - MIT License
+  - Python Framework
+markdown: >-
+  ## Overview
+
+
+  MetaGPT is a Python multi-agent framework that models software and business
+  roles as coordinated agent workflows.
+
+
+  ## Features
+
+
+  - Multi-agent framework
+
+  - Software role modeling
+
+  - Business role modeling
+
+  - Coordinated agent workflows
+
+
+  ## Deployment
+
+
+  - Library for self-managed applications
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

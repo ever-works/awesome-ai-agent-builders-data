@@ -1,0 +1,46 @@
+name: Agenta
+description: "Workspace for building AI coworkers and automations through chat,
+  sharing them with a team, and running them interactively or in the background.
+  Self-hosted; hosted service available. License: MIT core, separately licensed
+  enterprise features."
+source_url: https://github.com/agenta-ai/agenta
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - MIT License
+markdown: >-
+  ## Overview
+
+
+  Agenta is a workspace platform for building AI coworkers and automations
+  through chat, with team sharing capabilities and interactive or background
+  execution modes.
+
+
+  ## Features
+
+
+  - AI coworker building through chat interface
+
+  - Team sharing and collaboration
+
+  - Interactive and background execution
+
+  - Automation capabilities
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Hosted service available
+
+
+  ## License
+
+
+  MIT core, separately licensed enterprise features
+brand: ""
+updated_at: 2026-11-26 09:42

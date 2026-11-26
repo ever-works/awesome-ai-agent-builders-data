@@ -1,0 +1,50 @@
+name: Microsoft Copilot Studio
+description: Microsoft Copilot Studio is a no-code platform for building custom
+  agents that publish to Microsoft 365, Teams, and the web, with Power Platform
+  connectors behind them. It is designed for organizations already running on
+  Microsoft technologies. Deployment is cloud-based.
+source_url: https://copilotstudio.microsoft.com/
+category: Enterprise Agent Platforms
+tags:
+  - No-Code
+  - Enterprise
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Microsoft Copilot Studio is a no-code platform for building custom agents that
+  publish to Microsoft 365, Teams, and the web. It uses Power Platform
+  connectors behind the scenes and is best suited for organizations already
+  running on Microsoft.
+
+
+  ## Features
+
+
+  - No-code agent builder
+
+  - Publish agents to Microsoft 365, Teams, and the web
+
+  - Power Platform connectors for integration with Microsoft and third-party
+  services
+
+  - Custom agent creation for enterprise use cases
+
+
+  ## Pricing
+
+
+  Pricing details not specified in the source.
+
+
+  ## Deployment
+
+
+  Cloud-based.
+brand: Microsoft
+brand_logo_url: https://c.s-microsoft.com/enus/CMSImages/microsoft_logo_svg.svg?version=54e5b6821304858ee645
+images:
+  - https://learn.microsoft.com/en-us/microsoft-copilotstudio/media/overview/copilot-studio-overview.png
+updated_at: 2026-11-26 09:42

@@ -1,0 +1,46 @@
+name: Apache Airflow
+description: "Python platform for developing, scheduling, and monitoring batch
+  workflows as code. License: Apache-2.0. Hosting: self-hosted; third-party
+  managed services available."
+source_url: https://github.com/apache/airflow
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Apache-2.0
+  - Self-Hosted
+markdown: >-
+  ## Overview
+
+
+  Apache Airflow is a Python platform for developing, scheduling, and monitoring
+  batch workflows as code.
+
+
+  ## Features
+
+
+  - Workflow development as code
+
+  - Scheduling capabilities
+
+  - Workflow monitoring
+
+  - Batch workflow processing
+
+  - Python-based workflow definition
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Third-party managed services available
+
+
+  ## License
+
+
+  Apache-2.0
+brand: Apache Software Foundation
+updated_at: 2026-11-26 09:42

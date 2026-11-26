@@ -1,0 +1,42 @@
+name: StackStorm
+description: "Event-driven automation platform that connects services and takes
+  actions through rules and workflows. License: Apache-2.0. Hosting:
+  self-hosted."
+source_url: https://github.com/StackStorm/st2
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Self-Hosted
+  - Apache-2.0
+markdown: >-
+  ## Overview
+
+
+  StackStorm is an event-driven automation platform that connects services and
+  takes actions through rules and workflows.
+
+
+  ## Features
+
+
+  - Event-driven automation
+
+  - Service connectivity
+
+  - Rule-based actions
+
+  - Workflow execution
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

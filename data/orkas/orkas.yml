@@ -1,0 +1,41 @@
+name: Orkas
+description: "Local-first desktop AI workforce whose Commander coordinates
+  specialist agents through one chat. License: MIT. Hosting: local desktop."
+source_url: https://github.com/Orkas-AI/Orkas
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Local Desktop
+  - MIT License
+markdown: >-
+  ## Overview
+
+
+  Orkas is a local-first desktop AI workforce where a Commander coordinates
+  specialist agents through a single chat interface.
+
+
+  ## Features
+
+
+  - Local-first desktop operation
+
+  - Commander agent coordination
+
+  - Specialist agent management
+
+  - Single chat interface
+
+
+  ## Deployment
+
+
+  - Local desktop
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

@@ -1,0 +1,43 @@
+name: Letta
+description: "Framework and server for stateful agents with persistent memory.
+  License: Apache-2.0. Hosting: self-hosted server; vendor-hosted available."
+source_url: https://github.com/letta-ai/letta
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - Apache-2.0
+markdown: >-
+  ## Overview
+
+
+  Letta is a framework and server for building stateful AI agents with
+  persistent memory capabilities.
+
+
+  ## Features
+
+
+  - Stateful agent framework
+
+  - Persistent memory management
+
+  - Agent server
+
+  - Memory-enabled agents
+
+
+  ## Deployment
+
+
+  - Self-hosted server
+
+  - Vendor-hosted available
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

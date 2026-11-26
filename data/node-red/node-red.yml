@@ -1,0 +1,44 @@
+name: Node-RED
+description: "Flow-based programming tool for connecting devices, APIs, and
+  online services. License: Apache-2.0. Hosting: self-hosted."
+source_url: https://github.com/node-red/node-red
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Self-Hosted
+  - Apache-2.0
+  - Flow-Based
+markdown: >-
+  ## Overview
+
+
+  Node-RED is a flow-based programming tool for connecting devices, APIs, and
+  online services.
+
+
+  ## Features
+
+
+  - Flow-based programming
+
+  - Device connectivity
+
+  - API integration
+
+  - Online service connections
+
+  - Visual flow editor
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

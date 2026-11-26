@@ -1,0 +1,44 @@
+name: Haystack
+description: "Python framework for production retrieval, document-processing
+  pipelines, and agents. License: Apache-2.0. Hosting: library for self-managed
+  applications; vendor cloud available."
+source_url: https://github.com/deepset-ai/haystack
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Apache-2.0
+  - Python Framework
+markdown: >-
+  ## Overview
+
+
+  Haystack is a Python framework for production retrieval, document-processing
+  pipelines, and AI agents.
+
+
+  ## Features
+
+
+  - Production retrieval pipelines
+
+  - Document processing
+
+  - AI agent development
+
+  - Production-ready pipelines
+
+
+  ## Deployment
+
+
+  - Library for self-managed applications
+
+  - Vendor cloud available
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

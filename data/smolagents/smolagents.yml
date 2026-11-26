@@ -1,0 +1,41 @@
+name: smolagents
+description: "Compact Python library for agents that act through code or tool
+  calls. License: Apache-2.0. Hosting: library for self-managed applications."
+source_url: https://github.com/huggingface/smolagents
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Apache-2.0
+  - Python Library
+markdown: >-
+  ## Overview
+
+
+  smolagents is a compact Python library for AI agents that act through code or
+  tool calls.
+
+
+  ## Features
+
+
+  - Compact agent library
+
+  - Code-based agent actions
+
+  - Tool call support
+
+  - Lightweight framework
+
+
+  ## Deployment
+
+
+  - Library for self-managed applications
+
+
+  ## License
+
+
+  Apache-2.0
+brand: Hugging Face
+updated_at: 2026-11-26 09:42

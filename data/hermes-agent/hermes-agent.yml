@@ -1,0 +1,46 @@
+name: Hermes Agent
+description: "Personal agent with memory, skills, tools, scheduled jobs, and
+  messaging channels. License: MIT. Hosting: self-hosted; desktop application
+  available."
+source_url: https://github.com/NousResearch/hermes-agent
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - MIT License
+markdown: >-
+  ## Overview
+
+
+  Hermes Agent is a personal AI agent with memory, skills, tools, scheduled
+  jobs, and messaging channels for autonomous task execution.
+
+
+  ## Features
+
+
+  - Agent memory and context retention
+
+  - Skills system
+
+  - Tool integration
+
+  - Scheduled job execution
+
+  - Messaging channels
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Desktop application available
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

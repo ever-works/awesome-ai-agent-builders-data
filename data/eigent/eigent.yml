@@ -1,0 +1,40 @@
+name: Eigent
+description: "Desktop application for building and managing a workforce of
+  agents that completes multi-step tasks. License: Apache-2.0. Hosting: local
+  desktop."
+source_url: https://github.com/eigent-ai/eigent
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Apache-2.0
+  - Local Desktop
+markdown: >-
+  ## Overview
+
+
+  Eigent is a desktop application for building and managing a workforce of AI
+  agents that can complete multi-step tasks autonomously.
+
+
+  ## Features
+
+
+  - Agent workforce building and management
+
+  - Multi-step task completion
+
+  - Desktop-based agent operations
+
+
+  ## Deployment
+
+
+  - Local desktop application
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

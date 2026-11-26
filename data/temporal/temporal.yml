@@ -1,0 +1,47 @@
+name: Temporal
+description: "Durable execution platform that preserves application state and
+  retries workflow steps through failures. License: MIT. Hosting: self-hosted or
+  vendor cloud."
+source_url: https://github.com/temporalio/temporal
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Self-Hosted
+  - MIT License
+  - Vendor Cloud
+markdown: >-
+  ## Overview
+
+
+  Temporal is a durable execution platform that preserves application state and
+  retries workflow steps through failures.
+
+
+  ## Features
+
+
+  - Durable execution
+
+  - Application state preservation
+
+  - Automatic retry of workflow steps
+
+  - Failure recovery
+
+  - Workflow orchestration
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

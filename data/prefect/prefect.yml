@@ -1,0 +1,47 @@
+name: Prefect
+description: "Python framework for building, deploying, and observing workflows
+  with schedules and event triggers. License: Apache-2.0. Hosting: self-hosted
+  server or vendor cloud."
+source_url: https://github.com/PrefectHQ/prefect
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Apache-2.0
+  - Self-Hosted
+  - Vendor Cloud
+markdown: >-
+  ## Overview
+
+
+  Prefect is a Python framework for building, deploying, and observing workflows
+  with schedules and event triggers.
+
+
+  ## Features
+
+
+  - Workflow building and deployment
+
+  - Workflow observation
+
+  - Scheduling capabilities
+
+  - Event triggers
+
+  - Python framework
+
+
+  ## Deployment
+
+
+  - Self-hosted server
+
+  - Vendor cloud
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

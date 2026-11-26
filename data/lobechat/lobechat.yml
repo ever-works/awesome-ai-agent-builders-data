@@ -1,0 +1,48 @@
+name: LobeChat
+description: "Multi-model agent workspace with knowledge bases, plugins, and
+  one-click or Docker deployment. License: LobeHub Community License
+  (source-available). Hosting: self-hosted or vendor-hosted."
+source_url: https://github.com/lobehub/lobe-chat
+category: Open-Source Agent Platforms
+tags:
+  - Self-Hosted
+  - Vendor-Hosted
+  - Source-Available
+markdown: >-
+  ## Overview
+
+
+  LobeChat is a multi-model agent workspace with knowledge bases, plugins, and
+  flexible deployment options.
+
+
+  ## Features
+
+
+  - Multi-model AI support
+
+  - Knowledge base integration
+
+  - Plugin system
+
+  - Agent workspace
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor-hosted
+
+  - One-click deployment
+
+  - Docker deployment
+
+
+  ## License
+
+
+  LobeHub Community License (source-available)
+brand: ""
+updated_at: 2026-11-26 09:42

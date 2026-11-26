@@ -1,0 +1,44 @@
+name: Cline
+description: "Autonomous coding agent available as an IDE extension, CLI, and
+  SDK. License: Apache-2.0. Hosting: runs locally in the IDE or terminal."
+source_url: https://github.com/cline/cline
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Apache-2.0
+  - Local IDE
+  - Coding Agent
+markdown: >-
+  ## Overview
+
+
+  Cline is an autonomous coding agent available as an IDE extension, CLI, and
+  SDK.
+
+
+  ## Features
+
+
+  - Autonomous coding agent
+
+  - IDE extension
+
+  - Command-line interface
+
+  - Software development kit
+
+  - Local code operations
+
+
+  ## Deployment
+
+
+  - Runs locally in the IDE or terminal
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

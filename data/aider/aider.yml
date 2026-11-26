@@ -1,0 +1,43 @@
+name: Aider
+description: "Terminal-based AI pair programming tool for creating and editing
+  codebases with many model providers. License: Apache-2.0. Hosting: runs
+  locally in the terminal."
+source_url: https://github.com/Aider-AI/aider
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Apache-2.0
+  - Local Terminal
+  - Coding Agent
+markdown: >-
+  ## Overview
+
+
+  Aider is a terminal-based AI pair programming tool for creating and editing
+  codebases with many model providers.
+
+
+  ## Features
+
+
+  - Terminal-based pair programming
+
+  - Codebase creation and editing
+
+  - Multiple model provider support
+
+  - AI-assisted coding
+
+
+  ## Deployment
+
+
+  - Runs locally in the terminal
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

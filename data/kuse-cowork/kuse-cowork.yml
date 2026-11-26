@@ -1,0 +1,44 @@
+name: Kuse Cowork
+description: "Local-first desktop coworker that works across documents and tasks
+  with user-selected models. License: MIT. Hosting: local desktop; optional
+  Docker isolation."
+source_url: https://github.com/kuse-ai/kuse_cowork
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Local Desktop
+  - MIT License
+markdown: >-
+  ## Overview
+
+
+  Kuse Cowork is a local-first desktop AI coworker that works across documents
+  and tasks, allowing users to select their own models.
+
+
+  ## Features
+
+
+  - Local-first desktop operation
+
+  - Document and task integration
+
+  - User-selected AI models
+
+  - Cross-application task management
+
+
+  ## Deployment
+
+
+  - Local desktop application
+
+  - Optional Docker isolation
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

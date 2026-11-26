@@ -1,0 +1,42 @@
+name: Open Interpreter
+description: "Coding agent optimized for low-cost models that emulates multiple
+  agent harnesses. License: Apache-2.0. Hosting: runs locally."
+source_url: https://github.com/openinterpreter/open-interpreter
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Apache-2.0
+  - Local
+  - Coding Agent
+markdown: >-
+  ## Overview
+
+
+  Open Interpreter is a coding agent optimized for low-cost models that emulates
+  multiple agent harnesses.
+
+
+  ## Features
+
+
+  - Coding agent functionality
+
+  - Optimized for low-cost models
+
+  - Multiple agent harness emulation
+
+  - Local code execution
+
+
+  ## Deployment
+
+
+  - Runs locally
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

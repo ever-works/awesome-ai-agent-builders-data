@@ -1,0 +1,42 @@
+name: CAMEL
+description: "Python framework for researching and building agents, multi-agent
+  systems, tasks, and simulated environments. License: Apache-2.0. Hosting:
+  library for self-managed applications."
+source_url: https://github.com/camel-ai/camel
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Apache-2.0
+  - Python Framework
+markdown: >-
+  ## Overview
+
+
+  CAMEL is a Python framework for researching and building AI agents,
+  multi-agent systems, tasks, and simulated environments.
+
+
+  ## Features
+
+
+  - Agent research and building
+
+  - Multi-agent system support
+
+  - Task management
+
+  - Simulated environments
+
+
+  ## Deployment
+
+
+  - Library for self-managed applications
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

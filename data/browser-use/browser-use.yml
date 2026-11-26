@@ -1,0 +1,44 @@
+name: Browser Use
+description: "Python library that lets agents control web browsers and automate
+  online tasks. License: MIT. Hosting: self-hosted; vendor cloud available."
+source_url: https://github.com/browser-use/browser-use
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - MIT License
+  - Browser Automation
+markdown: >-
+  ## Overview
+
+
+  Browser Use is a Python library that lets AI agents control web browsers and
+  automate online tasks.
+
+
+  ## Features
+
+
+  - Web browser control
+
+  - Online task automation
+
+  - Agent-browser interaction
+
+  - Python library
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud available
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

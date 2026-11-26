@@ -1,0 +1,44 @@
+name: OpenClaw
+description: "Assistant that connects models, tools, messaging channels, and
+  companion applications through one gateway. License: MIT. Hosting: self-hosted
+  on a device or server."
+source_url: https://github.com/openclaw/openclaw
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - MIT License
+markdown: >-
+  ## Overview
+
+
+  OpenClaw is an assistant that connects AI models, tools, messaging channels,
+  and companion applications through a single gateway interface.
+
+
+  ## Features
+
+
+  - Model connectivity
+
+  - Tool integration
+
+  - Messaging channel integration
+
+  - Companion application connectivity
+
+  - Unified gateway
+
+
+  ## Deployment
+
+
+  - Self-hosted on a device or server
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

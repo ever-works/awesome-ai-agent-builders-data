@@ -1,0 +1,45 @@
+name: Automatisch
+description: "Visual business-automation tool for connecting services and
+  running workflows without code. License: AGPL-3.0 core, separately licensed
+  enterprise files. Hosting: self-hosted; vendor cloud available."
+source_url: https://github.com/automatisch/automatisch
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Self-Hosted
+  - AGPL-3.0
+  - No-Code
+markdown: >-
+  ## Overview
+
+
+  Automatisch is a visual business-automation tool for connecting services and
+  running workflows without code.
+
+
+  ## Features
+
+
+  - Visual workflow builder
+
+  - Service integration
+
+  - No-code automation
+
+  - Business process automation
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud available
+
+
+  ## License
+
+
+  AGPL-3.0 core, separately licensed enterprise files
+brand: ""
+updated_at: 2026-11-26 09:42

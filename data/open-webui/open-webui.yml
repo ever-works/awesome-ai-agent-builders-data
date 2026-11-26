@@ -1,0 +1,46 @@
+name: Open WebUI
+description: "Extensible AI workspace for local and cloud models with knowledge,
+  tools, and offline operation. License: Open WebUI License (source-available).
+  Hosting: self-hosted; vendor-hosted available."
+source_url: https://github.com/open-webui/open-webui
+category: Open-Source Agent Platforms
+tags:
+  - Self-Hosted
+  - Vendor-Hosted
+  - Source-Available
+markdown: >-
+  ## Overview
+
+
+  Open WebUI is an extensible AI workspace for local and cloud models with
+  knowledge, tools, and offline operation capabilities.
+
+
+  ## Features
+
+
+  - Local and cloud model support
+
+  - Knowledge management
+
+  - Tool integration
+
+  - Offline operation
+
+  - Extensible workspace
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor-hosted available
+
+
+  ## License
+
+
+  Open WebUI License (source-available)
+brand: ""
+updated_at: 2026-11-26 09:42

@@ -1,0 +1,45 @@
+name: Cursor
+description: Cursor is a code editor with built-in AI agents, including cloud
+  agents that run in the background. It is designed for developers who want
+  low-level control over agent behavior and is a better fit for technical teams
+  than business users. Deployment is cloud-based with a desktop application.
+source_url: https://cursor.com/
+category: Chat & Voice Agent Builders
+tags:
+  - AI-Powered
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cursor is a code editor with built-in AI agents, including cloud agents that
+  run in the background. It provides developers with an environment for building
+  and working with AI agents directly within their code editor.
+
+
+  ## Features
+
+
+  - Built-in AI agents within the code editor
+
+  - Cloud agents that run in the background
+
+  - Developer-focused agent building environment
+
+
+  ## Pricing
+
+
+  Pricing details not specified in the source.
+
+
+  ## Deployment
+
+
+  Cloud-based with desktop application.
+brand: Cursor
+brand_logo_url: https://cursor.com/logo.png
+images:
+  - https://cursor.com/og-image.png
+updated_at: 2026-11-26 09:42

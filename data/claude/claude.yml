@@ -1,0 +1,70 @@
+name: Claude
+description: "Claude is Anthropic's AI assistant with Claude Cowork (agentic
+  mode) integrated into the main experience. Users describe a job and Claude
+  plans the work, uses files and connected apps, and pauses to ask permission
+  before sensitive actions. Skills package instructions for repeatable
+  workflows, and the Team plan adds shared projects and admin controls. Pricing:
+  Free plan with limits; Pro $17/month billed annually; Max starts at
+  $100/month; Team $20/seat/month; Enterprise $20/seat/month plus API usage with
+  20-seat minimum. Deployment is cloud-based."
+source_url: https://claude.ai/
+category: Chat & Voice Agent Builders
+tags:
+  - AI-Powered
+  - Freemium
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Claude is Anthropic's AI assistant with agentic capabilities (Claude Cowork)
+  built into the main chat experience. Users tell Claude what they want done,
+  and it decides how to approach it: planning work, using files and connected
+  apps, and checking in before sensitive actions.
+
+
+  ## Features
+
+
+  - Claude Cowork: agentic mode where Claude plans and executes multi-step tasks
+
+  - File and app connectivity: access to connected data and applications
+
+  - Scheduled tasks: turn a process into a recurring hourly, daily, weekly, or
+  weekday task
+
+  - Skills: package instructions for how a job should be done so Claude repeats
+  it consistently
+
+  - Projects: hold files and context for Claude to reference
+
+  - Shared projects and admin controls (Team plan): organization-wide skills
+  deployment
+
+  - Claude Code: developer tool for building software with Claude
+
+
+  ## Pricing
+
+
+  - Free: includes skills, connectors, and projects; scheduled tasks need a paid
+  plan
+
+  - Pro: $17/month billed annually, includes Claude Code and scheduled tasks
+
+  - Max: starting at $100/month for heavier use
+
+  - Team: $20/seat/month billed annually for 2 to 150 seats
+
+  - Enterprise: $20/seat/month plus usage at API rates, 20-seat minimum
+
+
+  ## Deployment
+
+
+  Cloud-based (Anthropic's servers); desktop app available for local file tasks.
+brand: Anthropic
+brand_logo_url: https://www.anthropic.com/images/claude-icon.png
+images:
+  - https://www.anthropic.com/images/claude-og.png
+updated_at: 2026-11-26 09:42

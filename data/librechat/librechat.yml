@@ -1,0 +1,45 @@
+name: LibreChat
+description: "Multi-model AI workspace with agents, tools, memory, code
+  execution, and shared access controls. License: MIT. Hosting: self-hosted."
+source_url: https://github.com/danny-avila/LibreChat
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - MIT License
+markdown: >-
+  ## Overview
+
+
+  LibreChat is a multi-model AI workspace that provides agents, tools, memory,
+  code execution, and shared access controls for teams.
+
+
+  ## Features
+
+
+  - Multi-model AI support
+
+  - Agent integration
+
+  - Tool and function calling
+
+  - Memory management
+
+  - Code execution environment
+
+  - Shared access controls
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

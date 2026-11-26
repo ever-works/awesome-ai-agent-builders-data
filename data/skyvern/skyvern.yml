@@ -1,0 +1,45 @@
+name: Skyvern
+description: "Browser automation platform that uses agents and computer vision
+  to complete website workflows. License: AGPL-3.0. Hosting: self-hosted; vendor
+  cloud available."
+source_url: https://github.com/Skyvern-AI/skyvern
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - AGPL-3.0
+  - Browser Automation
+markdown: >-
+  ## Overview
+
+
+  Skyvern is a browser automation platform that uses AI agents and computer
+  vision to complete website workflows.
+
+
+  ## Features
+
+
+  - Browser automation
+
+  - Computer vision for web interaction
+
+  - Website workflow completion
+
+  - Agent-based browser control
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud available
+
+
+  ## License
+
+
+  AGPL-3.0
+brand: ""
+updated_at: 2026-11-26 09:42

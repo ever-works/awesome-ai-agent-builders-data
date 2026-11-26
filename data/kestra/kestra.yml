@@ -1,0 +1,47 @@
+name: Kestra
+description: "Workflow orchestration platform for data, infrastructure, and AI
+  processes defined in code or a UI. License: Apache-2.0 core, separately
+  licensed enterprise features. Hosting: self-hosted or vendor cloud."
+source_url: https://github.com/kestra-io/kestra
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Self-Hosted
+  - Apache-2.0
+  - Vendor Cloud
+markdown: >-
+  ## Overview
+
+
+  Kestra is a workflow orchestration platform for data, infrastructure, and AI
+  processes defined in code or a UI.
+
+
+  ## Features
+
+
+  - Workflow orchestration
+
+  - Data pipeline management
+
+  - Infrastructure automation
+
+  - AI process orchestration
+
+  - Code or UI definition
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud
+
+
+  ## License
+
+
+  Apache-2.0 core, separately licensed enterprise features
+brand: ""
+updated_at: 2026-11-26 09:42

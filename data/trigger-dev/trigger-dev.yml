@@ -1,0 +1,46 @@
+name: Trigger.dev
+description: "TypeScript platform for background jobs, workflows, and
+  long-running AI tasks. License: Apache-2.0. Hosting: self-hosted or vendor
+  cloud."
+source_url: https://github.com/triggerdotdev/trigger.dev
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Apache-2.0
+  - Self-Hosted
+  - Vendor Cloud
+  - TypeScript
+markdown: >-
+  ## Overview
+
+
+  Trigger.dev is a TypeScript platform for background jobs, workflows, and
+  long-running AI tasks.
+
+
+  ## Features
+
+
+  - Background job processing
+
+  - Workflow automation
+
+  - Long-running AI task execution
+
+  - TypeScript platform
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

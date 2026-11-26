@@ -1,0 +1,43 @@
+name: OpenWorker
+description: "Desktop coworker that completes everyday tasks across files,
+  applications, and Slack. License: MIT. Hosting: local desktop."
+source_url: https://github.com/andrewyng/openworker
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Local Desktop
+  - MIT License
+markdown: >-
+  ## Overview
+
+
+  OpenWorker is a desktop AI coworker that completes everyday tasks across
+  files, applications, and Slack.
+
+
+  ## Features
+
+
+  - Everyday task completion
+
+  - File integration
+
+  - Application integration
+
+  - Slack integration
+
+  - Desktop coworker environment
+
+
+  ## Deployment
+
+
+  - Local desktop
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

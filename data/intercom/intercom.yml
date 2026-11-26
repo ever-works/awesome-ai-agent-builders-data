@@ -1,0 +1,48 @@
+name: Intercom
+description: Intercom is a customer-support-focused platform with built-in AI
+  agents like Fin, which can resolve queries, take actions across tools like
+  Shopify and Salesforce, and continuously improve based on performance. It is
+  designed for customer support teams and deployment is cloud-based.
+source_url: https://www.intercom.com/
+category: Chat & Voice Agent Builders
+tags:
+  - AI-Powered
+  - Enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Intercom is a customer-support-focused platform with built-in AI agents. Its
+  AI agent Fin can resolve customer queries, take actions across connected tools
+  like Shopify and Salesforce, and continuously improve based on performance
+  data.
+
+
+  ## Features
+
+
+  - Fin AI agent for customer support
+
+  - Query resolution across connected tools
+
+  - Actions across Shopify, Salesforce, and other platforms
+
+  - Continuous improvement based on performance
+
+
+  ## Pricing
+
+
+  Pricing details not specified in the source.
+
+
+  ## Deployment
+
+
+  Cloud-based.
+brand: Intercom
+brand_logo_url: https://www.intercom.com/assets/images/favicons/favicon-32x32.png
+images:
+  - https://www.intercom.com/assets/images/og-image.png
+updated_at: 2026-11-26 09:42

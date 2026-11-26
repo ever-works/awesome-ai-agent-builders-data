@@ -1,0 +1,45 @@
+name: Agno
+description: "Python framework and runtime for building agents, serving them
+  through an API, and managing them in a web interface. License: Apache-2.0.
+  Hosting: self-hosted; vendor cloud available."
+source_url: https://github.com/agno-agi/agno
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - Apache-2.0
+  - Python Framework
+markdown: >-
+  ## Overview
+
+
+  Agno is a Python framework and runtime for building AI agents, serving them
+  through an API, and managing them in a web interface.
+
+
+  ## Features
+
+
+  - Agent building framework
+
+  - API serving for agents
+
+  - Web interface management
+
+  - Python runtime
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud available
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

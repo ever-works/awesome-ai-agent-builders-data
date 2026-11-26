@@ -1,0 +1,44 @@
+name: OpenWork
+description: "Desktop workspace for using and sharing agent workflows across
+  files and connected services. License: mixed, open-source and separately
+  licensed portions. Hosting: local desktop or organization-managed."
+source_url: https://github.com/different-ai/openwork
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - Local Desktop
+  - Mixed License
+markdown: >-
+  ## Overview
+
+
+  OpenWork is a desktop workspace for using and sharing agent workflows across
+  files and connected services.
+
+
+  ## Features
+
+
+  - Agent workflow usage and sharing
+
+  - File integration
+
+  - Connected service integration
+
+  - Desktop workspace environment
+
+
+  ## Deployment
+
+
+  - Local desktop
+
+  - Organization-managed
+
+
+  ## License
+
+
+  Mixed, open-source and separately licensed portions
+brand: ""
+updated_at: 2026-11-26 09:42

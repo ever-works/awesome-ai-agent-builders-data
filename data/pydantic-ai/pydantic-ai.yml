@@ -1,0 +1,46 @@
+name: Pydantic AI
+description: "Typed Python agent framework with model portability, tools, and
+  durable execution. License: MIT. Hosting: library for self-managed
+  applications; vendor platform available."
+source_url: https://github.com/pydantic/pydantic-ai
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - MIT License
+  - Python Framework
+markdown: >-
+  ## Overview
+
+
+  Pydantic AI is a typed Python agent framework with model portability, tools,
+  and durable execution for building AI agents.
+
+
+  ## Features
+
+
+  - Typed Python framework
+
+  - Model portability
+
+  - Tool integration
+
+  - Durable execution
+
+  - Agent development
+
+
+  ## Deployment
+
+
+  - Library for self-managed applications
+
+  - Vendor platform available
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42

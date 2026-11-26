@@ -1,0 +1,44 @@
+name: Dagster
+description: "Python orchestrator for building and operating data assets,
+  pipelines, and automation. License: Apache-2.0. Hosting: self-hosted; vendor
+  cloud available."
+source_url: https://github.com/dagster-io/dagster
+category: Automation Platforms with Agents
+tags:
+  - Open Source
+  - Apache-2.0
+  - Self-Hosted
+markdown: >-
+  ## Overview
+
+
+  Dagster is a Python orchestrator for building and operating data assets,
+  pipelines, and automation.
+
+
+  ## Features
+
+
+  - Data asset orchestration
+
+  - Pipeline management
+
+  - Automation workflows
+
+  - Python-based orchestration
+
+
+  ## Deployment
+
+
+  - Self-hosted
+
+  - Vendor cloud available
+
+
+  ## License
+
+
+  Apache-2.0
+brand: ""
+updated_at: 2026-11-26 09:42

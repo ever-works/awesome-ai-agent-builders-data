@@ -1,0 +1,44 @@
+name: LangGraph
+description: "Low-level framework for long-running, stateful agents with
+  explicit control over the execution graph. License: MIT. Hosting: library for
+  self-managed applications; vendor platform available."
+source_url: https://github.com/langchain-ai/langgraph
+category: Open-Source Agent Platforms
+tags:
+  - Open Source
+  - MIT License
+  - Python Framework
+markdown: >-
+  ## Overview
+
+
+  LangGraph is a low-level framework for building long-running, stateful AI
+  agents with explicit control over the execution graph.
+
+
+  ## Features
+
+
+  - Long-running agent support
+
+  - Stateful agent management
+
+  - Explicit execution graph control
+
+  - Multi-agent orchestration
+
+
+  ## Deployment
+
+
+  - Library for self-managed applications
+
+  - Vendor platform available
+
+
+  ## License
+
+
+  MIT License
+brand: ""
+updated_at: 2026-11-26 09:42
